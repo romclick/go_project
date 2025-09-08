@@ -10,5 +10,5 @@ require (
 	github.com/jmoiron/sqlx v1.4.0 // indirect
 	golang.org/x/text v0.20.0 // indirect
 	gorm.io/driver/mysql v1.6.0 // indirect
-	gorm.io/gorm v1.30.2 // indirect
+	gorm.io/gorm v1.30.3 // indirect
 )
